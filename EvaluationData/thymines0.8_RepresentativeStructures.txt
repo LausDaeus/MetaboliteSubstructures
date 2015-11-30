@@ -1,0 +1,491 @@
+Structure 0
+C atom at position 0:
+        N atom at position 1: single bond
+        N atom at position 5: single bond
+N atom at position 1:
+        C atom at position 0: single bond
+        C atom at position 2: single bond
+C atom at position 2:
+        N atom at position 1: single bond
+        C atom at position 3: double bond
+C atom at position 3:
+        C atom at position 2: double bond
+        C atom at position 4: single bond
+C atom at position 4:
+        C atom at position 3: single bond
+        N atom at position 5: single bond
+N atom at position 5:
+        C atom at position 0: single bond
+        C atom at position 4: single bond
+
+Structure 1
+C atom at position 0:
+        N atom at position 1: single bond
+N atom at position 1:
+        C atom at position 0: single bond
+        C atom at position 2: single bond
+C atom at position 2:
+        N atom at position 1: single bond
+        C atom at position 3: double bond
+C atom at position 3:
+        C atom at position 2: double bond
+        C atom at position 4: single bond
+C atom at position 4:
+        C atom at position 3: single bond
+
+Structure 2
+C atom at position 0:
+        C atom at position 1: double bond
+C atom at position 1:
+        C atom at position 0: double bond
+        C atom at position 2: single bond
+C atom at position 2:
+        C atom at position 1: single bond
+        N atom at position 3: single bond
+N atom at position 3:
+        C atom at position 2: single bond
+        C atom at position 4: single bond
+C atom at position 4:
+        N atom at position 3: single bond
+        O atom at position 5: double bond
+O atom at position 5:
+        C atom at position 4: double bond
+
+Structure 3
+C atom at position 0:
+        C atom at position 1: double bond
+        C atom at position 5: single bond
+C atom at position 1:
+        C atom at position 0: double bond
+        N atom at position 2: single bond
+N atom at position 2:
+        C atom at position 1: single bond
+        C atom at position 3: single bond
+C atom at position 3:
+        N atom at position 2: single bond
+        N atom at position 4: single bond
+N atom at position 4:
+        C atom at position 3: single bond
+        C atom at position 5: single bond
+C atom at position 5:
+        C atom at position 0: single bond
+        N atom at position 4: single bond
+        O atom at position 6: double bond
+O atom at position 6:
+        C atom at position 5: double bond
+
+Structure 4
+N atom at position 0:
+        C atom at position 1: single bond
+C atom at position 1:
+        N atom at position 0: single bond
+        N atom at position 2: single bond
+N atom at position 2:
+        C atom at position 1: single bond
+        C atom at position 3: single bond
+C atom at position 3:
+        N atom at position 2: single bond
+        C atom at position 4: double bond
+C atom at position 4:
+        C atom at position 3: double bond
+        C atom at position 5: single bond
+C atom at position 5:
+        C atom at position 4: single bond
+
+Structure 5
+N atom at position 0:
+        C atom at position 1: single bond
+C atom at position 1:
+        N atom at position 0: single bond
+        C atom at position 2: double bond
+C atom at position 2:
+        C atom at position 1: double bond
+        C atom at position 3: single bond
+C atom at position 3:
+        C atom at position 2: single bond
+        N atom at position 4: single bond
+N atom at position 4:
+        C atom at position 3: single bond
+
+Structure 6
+C atom at position 0:
+        N atom at position 1: single bond
+N atom at position 1:
+        C atom at position 0: single bond
+        C atom at position 2: single bond
+C atom at position 2:
+        N atom at position 1: single bond
+        C atom at position 3: double bond
+C atom at position 3:
+        C atom at position 2: double bond
+        C atom at position 4: single bond
+C atom at position 4:
+        C atom at position 3: single bond
+        O atom at position 5: double bond
+O atom at position 5:
+        C atom at position 4: double bond
+
+Structure 7
+O atom at position 0:
+        C atom at position 1: double bond
+C atom at position 1:
+        O atom at position 0: double bond
+        N atom at position 2: single bond
+        N atom at position 6: single bond
+N atom at position 2:
+        C atom at position 1: single bond
+        C atom at position 3: single bond
+C atom at position 3:
+        N atom at position 2: single bond
+        C atom at position 4: double bond
+C atom at position 4:
+        C atom at position 3: double bond
+        C atom at position 5: single bond
+C atom at position 5:
+        C atom at position 4: single bond
+        N atom at position 6: single bond
+N atom at position 6:
+        C atom at position 1: single bond
+        C atom at position 5: single bond
+
+Structure 8
+C atom at position 0:
+        N atom at position 1: single bond
+        C atom at position 5: single bond
+N atom at position 1:
+        C atom at position 0: single bond
+        C atom at position 2: single bond
+C atom at position 2:
+        N atom at position 1: single bond
+        N atom at position 3: single bond
+N atom at position 3:
+        C atom at position 2: single bond
+        C atom at position 4: single bond
+C atom at position 4:
+        N atom at position 3: single bond
+        C atom at position 5: double bond
+C atom at position 5:
+        C atom at position 0: single bond
+        C atom at position 4: double bond
+        C atom at position 6: single bond
+C atom at position 6:
+        C atom at position 5: single bond
+
+Structure 9
+O atom at position 0:
+        C atom at position 1: double bond
+C atom at position 1:
+        O atom at position 0: double bond
+        N atom at position 2: single bond
+N atom at position 2:
+        C atom at position 1: single bond
+        C atom at position 3: single bond
+C atom at position 3:
+        N atom at position 2: single bond
+        O atom at position 4: double bond
+O atom at position 4:
+        C atom at position 3: double bond
+
+Structure 10
+N atom at position 0:
+        C atom at position 1: single bond
+C atom at position 1:
+        N atom at position 0: single bond
+        C atom at position 2: double bond
+C atom at position 2:
+        C atom at position 1: double bond
+        C atom at position 3: single bond
+C atom at position 3:
+        C atom at position 2: single bond
+        O atom at position 4: double bond
+O atom at position 4:
+        C atom at position 3: double bond
+
+Structure 11
+C atom at position 0:
+        C atom at position 1: double bond
+C atom at position 1:
+        C atom at position 0: double bond
+        N atom at position 2: single bond
+N atom at position 2:
+        C atom at position 1: single bond
+        C atom at position 3: single bond
+C atom at position 3:
+        N atom at position 2: single bond
+        O atom at position 4: double bond
+O atom at position 4:
+        C atom at position 3: double bond
+
+Structure 12
+O atom at position 0:
+        C atom at position 1: double bond
+C atom at position 1:
+        O atom at position 0: double bond
+        N atom at position 2: single bond
+        C atom at position 6: single bond
+N atom at position 2:
+        C atom at position 1: single bond
+        C atom at position 3: single bond
+C atom at position 3:
+        N atom at position 2: single bond
+        N atom at position 4: single bond
+N atom at position 4:
+        C atom at position 3: single bond
+        C atom at position 5: single bond
+C atom at position 5:
+        N atom at position 4: single bond
+        C atom at position 6: double bond
+C atom at position 6:
+        C atom at position 1: single bond
+        C atom at position 5: double bond
+        C atom at position 7: single bond
+C atom at position 7:
+        C atom at position 6: single bond
+
+Structure 13
+C atom at position 0:
+        C atom at position 1: single bond
+C atom at position 1:
+        C atom at position 0: single bond
+        C atom at position 2: double bond
+C atom at position 2:
+        C atom at position 1: double bond
+        N atom at position 3: single bond
+N atom at position 3:
+        C atom at position 2: single bond
+        C atom at position 4: single bond
+C atom at position 4:
+        N atom at position 3: single bond
+        O atom at position 5: double bond
+O atom at position 5:
+        C atom at position 4: double bond
+
+Structure 14
+C atom at position 0:
+        N atom at position 1: single bond
+N atom at position 1:
+        C atom at position 0: single bond
+        C atom at position 2: single bond
+C atom at position 2:
+        N atom at position 1: single bond
+        N atom at position 3: single bond
+N atom at position 3:
+        C atom at position 2: single bond
+        C atom at position 4: single bond
+C atom at position 4:
+        N atom at position 3: single bond
+
+Structure 15
+N atom at position 0:
+        C atom at position 1: single bond
+C atom at position 1:
+        N atom at position 0: single bond
+        N atom at position 2: single bond
+N atom at position 2:
+        C atom at position 1: single bond
+        C atom at position 3: single bond
+C atom at position 3:
+        N atom at position 2: single bond
+        C atom at position 4: double bond
+C atom at position 4:
+        C atom at position 3: double bond
+
+Structure 16
+C atom at position 0:
+        N atom at position 1: single bond
+N atom at position 1:
+        C atom at position 0: single bond
+        C atom at position 2: single bond
+C atom at position 2:
+        N atom at position 1: single bond
+        C atom at position 3: single bond
+C atom at position 3:
+        C atom at position 2: single bond
+        C atom at position 4: double bond
+C atom at position 4:
+        C atom at position 3: double bond
+
+Structure 17
+O atom at position 0:
+        C atom at position 1: double bond
+C atom at position 1:
+        O atom at position 0: double bond
+        N atom at position 2: single bond
+N atom at position 2:
+        C atom at position 1: single bond
+        C atom at position 3: single bond
+C atom at position 3:
+        N atom at position 2: single bond
+        N atom at position 4: single bond
+N atom at position 4:
+        C atom at position 3: single bond
+        C atom at position 5: single bond
+C atom at position 5:
+        N atom at position 4: single bond
+
+Structure 18
+O atom at position 0:
+        C atom at position 1: double bond
+C atom at position 1:
+        O atom at position 0: double bond
+        N atom at position 2: single bond
+N atom at position 2:
+        C atom at position 1: single bond
+        C atom at position 3: single bond
+C atom at position 3:
+        N atom at position 2: single bond
+        C atom at position 4: double bond
+C atom at position 4:
+        C atom at position 3: double bond
+        C atom at position 5: single bond
+C atom at position 5:
+        C atom at position 4: single bond
+        O atom at position 6: double bond
+O atom at position 6:
+        C atom at position 5: double bond
+
+Structure 19
+O atom at position 0:
+        C atom at position 1: double bond
+C atom at position 1:
+        O atom at position 0: double bond
+        N atom at position 2: single bond
+N atom at position 2:
+        C atom at position 1: single bond
+        C atom at position 3: single bond
+C atom at position 3:
+        N atom at position 2: single bond
+        N atom at position 4: single bond
+N atom at position 4:
+        C atom at position 3: single bond
+
+Structure 20
+C atom at position 0:
+        C atom at position 1: single bond
+C atom at position 1:
+        C atom at position 0: single bond
+        N atom at position 2: single bond
+N atom at position 2:
+        C atom at position 1: single bond
+        C atom at position 3: single bond
+C atom at position 3:
+        N atom at position 2: single bond
+        O atom at position 4: double bond
+O atom at position 4:
+        C atom at position 3: double bond
+
+Structure 21
+C atom at position 0:
+        N atom at position 1: single bond
+N atom at position 1:
+        C atom at position 0: single bond
+        C atom at position 2: single bond
+        C atom at position 6: single bond
+C atom at position 2:
+        N atom at position 1: single bond
+        C atom at position 3: double bond
+C atom at position 3:
+        C atom at position 2: double bond
+        C atom at position 4: single bond
+C atom at position 4:
+        C atom at position 3: single bond
+        N atom at position 5: single bond
+N atom at position 5:
+        C atom at position 4: single bond
+        C atom at position 6: single bond
+C atom at position 6:
+        N atom at position 1: single bond
+        N atom at position 5: single bond
+        O atom at position 7: double bond
+O atom at position 7:
+        C atom at position 6: double bond
+
+Structure 22
+C atom at position 0:
+        N atom at position 1: single bond
+N atom at position 1:
+        C atom at position 0: single bond
+        C atom at position 2: single bond
+        C atom at position 6: single bond
+C atom at position 2:
+        N atom at position 1: single bond
+        C atom at position 3: double bond
+C atom at position 3:
+        C atom at position 2: double bond
+        C atom at position 4: single bond
+C atom at position 4:
+        C atom at position 3: single bond
+        N atom at position 5: single bond
+N atom at position 5:
+        C atom at position 4: single bond
+        C atom at position 6: single bond
+C atom at position 6:
+        N atom at position 1: single bond
+        N atom at position 5: single bond
+
+Structure 23
+C atom at position 0:
+        N atom at position 1: single bond
+N atom at position 1:
+        C atom at position 0: single bond
+        C atom at position 2: single bond
+C atom at position 2:
+        N atom at position 1: single bond
+        C atom at position 3: double bond
+C atom at position 3:
+        C atom at position 2: double bond
+        C atom at position 4: single bond
+C atom at position 4:
+        C atom at position 3: single bond
+        N atom at position 5: single bond
+N atom at position 5:
+        C atom at position 4: single bond
+
+CC1=CNC(=O)NC1=O
+: (111111111111111111110000)
+CC1=CN(C(=O)NC1=O)C2CC(N(C2)C(=O)OC)CO
+: (111111111111111111111111)
+CC1=CN(C(=O)NC1=O)C(CC(=O)OC)SCCO
+: (111111111111111111111111)
+CC1=CN(C(=O)NC1=O)C=CC=O
+: (111111111111111111110111)
+CC1=CN(C(=O)NC1=O)CC(CN=[N+]=[N-])O
+: (111111111111111111111111)
+CC1=CN(C(=O)NC1=O)C=CC(=O)OC
+: (111111111111111111110111)
+CC1=CN(C(=O)NC1=O)C2CC(N(C2)C=O)CO
+: (111111111111111111111111)
+CC1=CN(C(=O)NC1=O)C2CC(N(C2)CCC#N)CO
+: (111111111111111111111111)
+CC1=CN(C(=O)NC1=O)C2CC(SC2)CO
+: (111111111111111111111111)
+CCOP(=O)(CCC(C(C)O)OCN1C=C(C(=O)NC1=O)C)OCC
+: (111111111111111110001111)
+CC1=CN(C(=O)NC1=O)C(C)C(=O)NC(C)C(=O)O
+: (111111111111111111111111)
+CCCCCC(=O)OCC=CCN1C=C(C(=O)NC1=O)C
+: (111111111111111110001111)
+CC1=CN(C(=O)NC1=O)CC(CCO)CO
+: (111111111111111111111111)
+CC1=CN(C(=O)NC1=O)CC(CO)CO
+: (111111111111111111111111)
+CC1=CN(C(=O)NC1=O)CC=CCC(C2=CC=CC=C2)(C3=CC=CC=C3)C(=O)O
+: (111111111111111111111111)
+CC1=CN(C(=O)NC1=O)CC=CCOC(=O)CC(C)(C)C
+: (111111111111111111111111)
+CC1=CN(C(=O)NC1=O)C2CC(C(OC2)CO)O
+: (111111111111111111111111)
+CC1=CN(C(=O)NC1=O)C2CSC(O2)CO
+: (111111111111111111111111)
+CC1=C(NC(=O)NC1=O)CC2(C(NC(=O)NC2=O)CO)C
+: (111111111111111111111000)
+CC1=CN(C(=O)NC1=O)CC2OCC(O2)CO
+: (111111111111111111111111)
+CC1=CN(C(=O)NC1=O)CC2OCC(O2)CO
+: (111111111111111111111111)
+CC1=CNC(=O)N(C1=O)CC2CSC(O2)P(=O)(O)O
+: (111111111111111111111000)
+CC1=CN(C(=O)NC1=O)C(C2C(C(CO2)(CO)O)N=[N+]=[N-])OC
+: (111111111111111111111111)
+CC1=CN(C(=O)NC1=O)C2CSC(O2)CO
+: (111111111111111111111111)

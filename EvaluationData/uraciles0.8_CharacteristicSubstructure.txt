@@ -1,0 +1,122 @@
+Characteristic Substructure
+N atom at position 0:
+        C atom at position 6: single bond
+        C atom at position 2: single bond
+O atom at position 1:
+        C atom at position 6: double bond
+C atom at position 2:
+        N atom at position 0: single bond
+        C atom at position 3: double bond
+C atom at position 3:
+        C atom at position 2: double bond
+        C atom at position 4: single bond
+C atom at position 4:
+        C atom at position 3: single bond
+        N atom at position 5: single bond
+        O atom at position 7: double bond
+N atom at position 5:
+        C atom at position 6: single bond
+        C atom at position 4: single bond
+C atom at position 6:
+        O atom at position 1: double bond
+        N atom at position 0: single bond
+        N atom at position 5: single bond
+O atom at position 7:
+        C atom at position 4: double bond
+C atom at position 8:
+
+Structures which have been added to Characteristic Substructure
+Structure 0
+O atom at position 0:
+        C atom at position 1: double bond
+C atom at position 1:
+        O atom at position 0: double bond
+        N atom at position 2: single bond
+        N atom at position 6: single bond
+N atom at position 2:
+        C atom at position 1: single bond
+        C atom at position 3: single bond
+C atom at position 3:
+        N atom at position 2: single bond
+        C atom at position 4: double bond
+C atom at position 4:
+        C atom at position 3: double bond
+        C atom at position 5: single bond
+C atom at position 5:
+        C atom at position 4: single bond
+        N atom at position 6: single bond
+N atom at position 6:
+        C atom at position 1: single bond
+        C atom at position 5: single bond
+
+Structure 1
+C atom at position 0:
+        C atom at position 1: double bond
+        C atom at position 5: single bond
+C atom at position 1:
+        C atom at position 0: double bond
+        N atom at position 2: single bond
+N atom at position 2:
+        C atom at position 1: single bond
+        C atom at position 3: single bond
+C atom at position 3:
+        N atom at position 2: single bond
+        N atom at position 4: single bond
+N atom at position 4:
+        C atom at position 3: single bond
+        C atom at position 5: single bond
+C atom at position 5:
+        C atom at position 0: single bond
+        N atom at position 4: single bond
+        O atom at position 6: double bond
+O atom at position 6:
+        C atom at position 5: double bond
+
+C1=CNC(=O)NC1=O
+: (11)
+C1=C(C(=O)NC(=O)N1)N(CCCl)CCCl
+: (11)
+C1=CN(C(=O)NC1=O)C2C(C(C(O2)CO)O)O
+: (11)
+CC1=C(C(=O)N(C(=O)N1)C(C)C)Br
+: (11)
+C1CC(OC1)N2C=C(C(=O)NC2=O)F
+: (11)
+CC1=C(C(=O)NC(=O)N1)N(CCCl)CCCl
+: (11)
+C1C(C(OC1N2C=CC(=O)NC2=O)CO)O
+: (11)
+C1=C(C(=O)NC(=O)N1)C(F)(F)F
+: (11)
+C1=CC(=O)C=CC1=NNC2=CC(=O)NC(=O)N2
+: (11)
+C1=C(C(=O)NC(=O)N1C2C(C(C(O2)CO)O)O)C=CBr
+: (11)
+C1=C(C(=O)NC(=O)N1)C=CBr
+: (11)
+C1=C(C(=O)NC(=O)N1)C(=O)[O-]
+: (11)
+C1=CN(C(=O)NC1=O)C2C(C(C(O2)CO)O)O
+: (11)
+C1=C(C(=O)NC(=O)N1)I
+: (11)
+CC1=C(C(=O)NC(=O)N1)N(CCF)CCCl
+: (11)
+CC1=C(C(=O)N(C(=O)N1C2=CC=C(C=C2)OC)C)N(C)C
+: (11)
+C1C(OC(CO1)N2C=CC(=O)NC2=O)CO
+: (11)
+C1=CN(C(=O)NC1=O)C2C(C(C(O2)CO)O)O
+: (11)
+C1C(OC(S1)CO)N2C=CC(=O)NC2=O
+: (11)
+C1CC(OC1)N2C(=O)C(=CNC2=O)F
+: (10)
+C1=CC=C2C(=C1)C(OC2=O)N3C(=O)C(=CNC3=O)F
+: (10)
+CC#CC1=CN(C(=O)NC1=O)C2C(C(C(O2)CO)O)O
+: (11)
+C1=CN(C(=O)NC1=O)C2C(C(C(O2)C(C(=O)O)N)O)O
+: (11)
+C1=CC=C(C=C1)CC2=CN(C(=O)NC2=O)COCCO
+: (11)

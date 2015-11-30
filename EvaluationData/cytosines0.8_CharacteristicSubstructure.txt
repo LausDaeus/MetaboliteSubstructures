@@ -1,0 +1,97 @@
+Characteristic Substructure
+C atom at position 0:
+        O atom at position 7: double bond
+        N atom at position 1: single bond
+        N atom at position 5: single bond
+N atom at position 1:
+        C atom at position 0: single bond
+        C atom at position 2: double bond
+C atom at position 2:
+        N atom at position 1: double bond
+        C atom at position 3: single bond
+C atom at position 3:
+        C atom at position 2: single bond
+        C atom at position 4: double bond
+C atom at position 4:
+        C atom at position 3: double bond
+        N atom at position 5: single bond
+N atom at position 5:
+        C atom at position 0: single bond
+        C atom at position 4: single bond
+        C atom at position 6: single bond
+C atom at position 6:
+        N atom at position 5: single bond
+O atom at position 7:
+        C atom at position 0: double bond
+
+Structures which have been added to Characteristic Substructure
+Structure 0
+O atom at position 0:
+        C atom at position 1: double bond
+C atom at position 1:
+        O atom at position 0: double bond
+        N atom at position 2: single bond
+        N atom at position 6: single bond
+N atom at position 2:
+        C atom at position 1: single bond
+        C atom at position 3: double bond
+C atom at position 3:
+        N atom at position 2: double bond
+        C atom at position 4: single bond
+C atom at position 4:
+        C atom at position 3: single bond
+        C atom at position 5: double bond
+C atom at position 5:
+        C atom at position 4: double bond
+        N atom at position 6: single bond
+N atom at position 6:
+        C atom at position 1: single bond
+        C atom at position 5: single bond
+        C atom at position 7: single bond
+C atom at position 7:
+        N atom at position 6: single bond
+
+CCOP(=O)(CC(=O)NC1=NC(=O)N(C=C1)C2CSC(O2)CO)OCC
+: (1)
+C#CC12C(C(OC1(CO2)CO)N3C=CC(=NC3=O)N)O
+: (1)
+C1=C(NC(=O)N=C1)N
+: (0)
+C1C(CSC1CO)N2C=CC(=NC2=O)N
+: (1)
+C1C(OC(S1)CO)N2C=CC(=NC2=O)N
+: (1)
+C1C(OC(O1)CN2C=CC(=NC2=O)N)CO
+: (1)
+C1C(COC(C1O)CO)N2C=CC(=NC2=O)N
+: (1)
+C1C(COC(C1O)CO)OC2=NC=CC(=N2)N
+: (0)
+C1C(OC(O1)CN2C=CC(=NC2=O)N)CO
+: (1)
+CC1=C(C(CCC1)(C)C)C=CC=CC=CC=CC(=O)NC2=NC(=O)N(C=C2)C3CSC(O3)CO
+: (1)
+CCOP(=O)(C(OCCN1C=CC(=NC1=O)N)F)O
+: (1)
+CC(=O)OCOCC1OC(CS1)N2C=CC(=NC2=O)N
+: (1)
+CCCC(=O)OCOCC1OC(CS1)N2C=CC(=NC2=O)N
+: (1)
+C1C(OC(S1)CO)N2C=CC(=NC2=O)NC(=O)C3=CC4=CC=CC=C4N=C3
+: (1)
+C1C(OC(S1)COP(=O)(C(=O)O)O)N2C=CC(=NC2=O)N
+: (1)
+CCOC(=O)P(=O)(O)OCC1OC(CS1)N2C=CC(=NC2=O)N
+: (1)
+C1C(OC(S1)COC(=O)CP(=O)(O)O)N2C=CC(=NC2=O)N
+: (1)
+C1C(OC(S1)CO)N2C=CC(=NC2=O)NC(=O)CP(=O)(O)O
+: (1)
+CN(C)C=NC1C=CN(C(=O)N1)C2CSC(O2)CO
+: (0)
+CCCC(=O)OCOCC1OC(CS1)N2C=CC(=NC2=O)NC(=O)C
+: (1)
+CCOP(=O)(C(=O)OCCCNC1=NC(=O)N(C=C1)C2CSC(O2)CO)OCC
+: (1)
+CCOP(=O)(CC(=O)OCC1OC(CS1)N2C=CC(=NC2=O)N)OCC
+: (1)
