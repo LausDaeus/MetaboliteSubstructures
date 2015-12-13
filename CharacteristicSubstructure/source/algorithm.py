@@ -98,11 +98,13 @@ class CSAlgorithm(object):
         :return: a dictionary containing all of the paths as strings with their length as value
         """
         paths = {}
+
         for smiles in smiles_set:
             molecule = Parser().parse_smiles(smiles)
             self.molecules.append(molecule)
             path_dict = molecule.find_all_paths()
             paths.update(path_dict)
+        print "path size", len(paths)
         return paths
 
     def _find_representative_paths(self, paths, length):

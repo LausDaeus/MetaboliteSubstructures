@@ -1,70 +1,70 @@
 Characteristic Substructure
 C atom at position 0:
-        C atom at position 10: single bond
-        C atom at position 8: single bond
-        O atom at position 11: single bond
+        N atom at position 8: double bond
+        C atom at position 2: single bond
+        N atom at position 13: single bond
 C atom at position 1:
+C atom at position 2:
+        C atom at position 0: single bond
+        C atom at position 18: double bond
         N atom at position 15: single bond
-        C atom at position 19: double bond
-        N atom at position 6: single bond
-N atom at position 2:
-        C atom at position 17: double bond
+O atom at position 3:
         C atom at position 14: single bond
-C atom at position 3:
-        C atom at position 13: single bond
-        C atom at position 10: single bond
-        O atom at position 21: single bond
-C atom at position 4:
+N atom at position 4:
+        C atom at position 21: double bond
+        C atom at position 18: single bond
 C atom at position 5:
-N atom at position 6:
-        C atom at position 1: single bond
-        C atom at position 16: single bond
-        C atom at position 13: single bond
-O atom at position 7:
-        C atom at position 8: single bond
-C atom at position 8:
-        C atom at position 0: single bond
-        O atom at position 7: single bond
-N atom at position 9:
-        C atom at position 19: single bond
-        C atom at position 16: double bond
-C atom at position 10:
-        C atom at position 3: single bond
-        C atom at position 0: single bond
-        O atom at position 20: single bond
-O atom at position 11:
-        C atom at position 13: single bond
-        C atom at position 0: single bond
-C atom at position 12:
-C atom at position 13:
-        N atom at position 6: single bond
-        C atom at position 3: single bond
-        O atom at position 11: single bond
-C atom at position 14:
-        N atom at position 2: single bond
-        N atom at position 15: double bond
-N atom at position 15:
-        C atom at position 14: double bond
-        C atom at position 1: single bond
-C atom at position 16:
-        N atom at position 9: double bond
-        N atom at position 6: single bond
-C atom at position 17:
-        N atom at position 2: double bond
-        C atom at position 19: single bond
-        N atom at position 22: single bond
-C atom at position 18:
-C atom at position 19:
-        C atom at position 17: single bond
-        C atom at position 1: double bond
-        N atom at position 9: single bond
-O atom at position 20:
+C atom at position 6:
+        C atom at position 9: single bond
+        C atom at position 14: single bond
+        O atom at position 17: single bond
+C atom at position 7:
+N atom at position 8:
+        C atom at position 0: double bond
+        C atom at position 21: single bond
+C atom at position 9:
         C atom at position 10: single bond
-O atom at position 21:
-        C atom at position 3: single bond
-N atom at position 22:
-        C atom at position 17: single bond
+        C atom at position 6: single bond
+        O atom at position 16: single bond
+C atom at position 10:
+        C atom at position 20: single bond
+        C atom at position 9: single bond
+        O atom at position 22: single bond
+C atom at position 11:
+N atom at position 12:
+        C atom at position 18: single bond
+        C atom at position 23: single bond
+        C atom at position 20: single bond
+N atom at position 13:
+        C atom at position 0: single bond
+C atom at position 14:
+        C atom at position 6: single bond
+        O atom at position 3: single bond
+N atom at position 15:
+        C atom at position 2: single bond
+        C atom at position 23: double bond
+O atom at position 16:
+        C atom at position 9: single bond
+O atom at position 17:
+        C atom at position 20: single bond
+        C atom at position 6: single bond
+C atom at position 18:
+        N atom at position 4: single bond
+        C atom at position 2: double bond
+        N atom at position 12: single bond
+C atom at position 19:
+C atom at position 20:
+        N atom at position 12: single bond
+        C atom at position 10: single bond
+        O atom at position 17: single bond
+C atom at position 21:
+        N atom at position 8: single bond
+        N atom at position 4: double bond
+O atom at position 22:
+        C atom at position 10: single bond
 C atom at position 23:
+        N atom at position 15: double bond
+        N atom at position 12: single bond
 
 Structures which have been added to Characteristic Substructure
 Structure 0
@@ -456,24 +456,24 @@ N atom at position 6:
 Structure 10
 O atom at position 0:
         C atom at position 1: single bond
+        C atom at position 4: single bond
 C atom at position 1:
         O atom at position 0: single bond
         C atom at position 2: single bond
 C atom at position 2:
         C atom at position 1: single bond
         C atom at position 3: single bond
-        O atom at position 6: single bond
 C atom at position 3:
         C atom at position 2: single bond
         C atom at position 4: single bond
 C atom at position 4:
+        O atom at position 0: single bond
         C atom at position 3: single bond
         C atom at position 5: single bond
 C atom at position 5:
         C atom at position 4: single bond
         O atom at position 6: single bond
 O atom at position 6:
-        C atom at position 2: single bond
         C atom at position 5: single bond
 
 Structure 11
@@ -544,6 +544,29 @@ C atom at position 6:
         C atom at position 5: single bond
 
 Structure 14
+N atom at position 0:
+        C atom at position 1: single bond
+        C atom at position 4: single bond
+C atom at position 1:
+        N atom at position 0: single bond
+        N atom at position 2: double bond
+N atom at position 2:
+        C atom at position 1: double bond
+        C atom at position 3: single bond
+C atom at position 3:
+        N atom at position 2: single bond
+        C atom at position 4: double bond
+C atom at position 4:
+        N atom at position 0: single bond
+        C atom at position 3: double bond
+        N atom at position 5: single bond
+N atom at position 5:
+        C atom at position 4: single bond
+        C atom at position 6: double bond
+C atom at position 6:
+        N atom at position 5: double bond
+
+Structure 15
 C atom at position 0:
         N atom at position 1: single bond
 N atom at position 1:
@@ -580,30 +603,30 @@ C atom at position 9:
 N atom at position 10:
         C atom at position 9: single bond
 
-Structure 15
-N atom at position 0:
+Structure 16
+O atom at position 0:
+        C atom at position 1: single bond
+C atom at position 1:
+        O atom at position 0: single bond
+        C atom at position 2: single bond
+        C atom at position 5: single bond
+C atom at position 2:
+        C atom at position 1: single bond
+        O atom at position 3: single bond
+O atom at position 3:
+        C atom at position 2: single bond
+        C atom at position 4: single bond
+C atom at position 4:
+        O atom at position 3: single bond
+        C atom at position 5: single bond
+C atom at position 5:
         C atom at position 1: single bond
         C atom at position 4: single bond
-C atom at position 1:
-        N atom at position 0: single bond
-        N atom at position 2: double bond
-N atom at position 2:
-        C atom at position 1: double bond
-        C atom at position 3: single bond
-C atom at position 3:
-        N atom at position 2: single bond
-        C atom at position 4: double bond
-C atom at position 4:
-        N atom at position 0: single bond
-        C atom at position 3: double bond
-        N atom at position 5: single bond
-N atom at position 5:
-        C atom at position 4: single bond
-        C atom at position 6: double bond
-C atom at position 6:
-        N atom at position 5: double bond
+        O atom at position 6: single bond
+O atom at position 6:
+        C atom at position 5: single bond
 
-Structure 16
+Structure 17
 C atom at position 0:
         N atom at position 1: double bond
         C atom at position 5: single bond
@@ -639,29 +662,6 @@ C atom at position 9:
         C atom at position 10: single bond
 C atom at position 10:
         C atom at position 9: single bond
-
-Structure 17
-O atom at position 0:
-        C atom at position 1: single bond
-C atom at position 1:
-        O atom at position 0: single bond
-        C atom at position 2: single bond
-        C atom at position 5: single bond
-C atom at position 2:
-        C atom at position 1: single bond
-        O atom at position 3: single bond
-O atom at position 3:
-        C atom at position 2: single bond
-        C atom at position 4: single bond
-C atom at position 4:
-        O atom at position 3: single bond
-        C atom at position 5: single bond
-C atom at position 5:
-        C atom at position 1: single bond
-        C atom at position 4: single bond
-        O atom at position 6: single bond
-O atom at position 6:
-        C atom at position 5: single bond
 
 Structure 18
 C atom at position 0:
@@ -838,7 +838,7 @@ CCCC(CCC)C(=O)OP(=O)(O)OCC1C(C(C(O1)N2C=NC3=C2N=CN=C3N)O)O
 COP(=O)(O)OCC1C(C(C(O1)N2C=NC3=C2N=CN=C3N)O)O
 : (1111111111111111111111)
 CNC1=NC=NC2=C1N=CN2C3C(CC(O3)COP(=O)(O)O)O
-: (1111111111111111101111)
+: (1111111111111111011111)
 C1C2C(C(C(O2)N3C=NC4=C3N=CN=C4N)O)OP(=O)(O1)O
 : (1111111111111111111111)
 CC1=NC=CN1P(=O)(O)OCC2C(C(C(O2)N3C=NC4=C3N=CN=C4N)O)O
@@ -848,9 +848,9 @@ CCCC(=O)OP1(=O)OCC2C(O1)C(C(O2)N3C=NC4=C3N=CN=C4N)O
 CC(=O)C=C1C(C2=CC=CC=C2N1C)(C)C
 : (0000000000000000000000)
 CC(C(=O)OC)NP(=O)(OCC1CCC(O1)N2C=NC3=C2N=CN=C3N)OC4=CC=CC=C4
-: (1111111111111111101111)
+: (1111111111111111011111)
 CC(C(=O)OC)NP(=O)(OCC1C=CC(O1)N2C=NC3=C2N=CN=C3N)OC4=CC=CC=C4
-: (0011000011001111100000)
+: (0011000011001111010000)
 CC(=O)OP(=O)(O)OCC1C(C(C(O1)N2C=NC3=C2N=CN=C3N)O)O
 : (1111111111111111111111)
 C1=NC2=C(C(=N1)N)N=CN2C3C(C(C(O3)COP(=O)([O-])OS(=O)(=O)[O-])O)O
@@ -868,7 +868,7 @@ C1=NC2=C(C(=N1)N)N=CN2C3C(C(C(O3)CO)OP(=O)(O)O)O
 C1=NC2=C(C(=N1)N)N=CN2C3C(C(C(O3)COP(=O)(O)O)O)O
 : (1111111111111111111111)
 C1C2C(C(C(O2)N3C4=C(C(=NC=N4)N)N=C3Br)O)OP(=O)(O1)O
-: (0000000011110000010000)
+: (0000000011110000100000)
 C1=NC2=C(C(=N1)N)N=CN2C3C(C(C(O3)COP(=O)(O)OS(=O)(=O)O)O)O
 : (1111111111111111111111)
 CCCC(=O)NC1=NC=NC2=C1N=CN2C3C(C4C(O3)COP(=O)(O4)O)OC(=O)CCC
@@ -878,13 +878,13 @@ C1=NC2=C(C(=N1)N)N=CN2C3C(C(C(O3)COP(=O)(O)O)O)O
 C1C2C(C(C(O2)N3C=NC4=C3N=CN=C4N)O)OP(=O)(O1)O
 : (1111111111111111111111)
 C1C2C(C(C(O2)N3C4=C(C(=NC=N4)N)N=C3Br)O)OP(=O)(O1)O
-: (0000000011110000010000)
+: (0000000011110000100000)
 C1=NC2=C(C(=N1)N)N=CN2C3C(C(C(O3)COP(=O)(O)O)O)O
 : (1111111111111111111111)
 C1=NC2=C(C(=N1)N)N=CN2C3C(C(C(O3)COP(=O)([O-])OC(=O)C(CO)N)O)O
 : (1111111111111111111111)
 C1C2C(C(C(O2)N3C4=C(C(=NC=N4)N)N=C3N=[N+]=[N-])O)OP(=O)(O1)O
-: (0000000011110000010000)
+: (0000000011110000100000)
 C1=NC2=C(C(=N1)N)N=CN2C3C(C(C(O3)COP(=O)([O-])OC(=O)C(CO)N)O)O
 : (1111111111111111111111)
 CC(=O)OP(=O)([O-])OCC1C(C(C(O1)N2C=NC3=C2N=CN=C3N)O)O
@@ -898,24 +898,24 @@ C1=NC2=C(C(=N1)N)N=CN2C3C(C(C(O3)CO)O)OP(=O)([O-])[O-]
 C1C(C(OC1N2C=NC3=C2N=CN=C3N)COP(=O)([O-])[O-])O
 : (1110111111111011001111)
 C1C2C(C(C(O2)N3C4=C(C(=NC=N4)N)N=C3NCCCCCCN)O)OP(=O)(O1)O
-: (0000000011110000010000)
+: (0000000011110000100000)
 C1C(C(OC1N2C=NC3=C(N=CN=C32)N=CCCCCCN)COP(=O)(O)O)O
 : (0000000010110000000000)
 C1C(C(OC1N2C3=C(C(=NC=N3)N)N=C2N=CC4=CC=CC=C4)CO)OP(=O)(O)O
 : (0000000011110000000000)
 C1=NC2=C(C(=N1)N)N=CN2C3C4C(C(O3)CO)OP(=O)(O4)[O-]
-: (1111111111111111101111)
+: (1111111111111111011111)
 C1=CN2C(=N1)C3=C(N=N2)N(C=N3)C4C(C(C(O4)COP(=O)(O)O)O)O
-: (0000000000111100010000)
+: (0000000000111100100000)
 CCCCCC=CCCCNP(=O)(O)OCC1CC(C(O1)N2C=NC3=C2N=CN=C3N)O
-: (1111111111111111101111)
+: (1111111111111111011111)
 C1C2C(C(C(O2)N3C4=C(C(=NC=N4)N)[N-]C3=N[N+]#N)O)OP(=O)(O1)[O-]
-: (0000000011110000010000)
+: (0000000011110000100000)
 C1=NC2=C(C(=N1)N)N=CN2C(C=O)OC(COP(=O)(O)O)C=O
-: (0011000011001111100000)
+: (0011000011001111010000)
 C1=NC2=C(C(=N1)N)N=CN2C(C=O)OC(COP(=O)(O)OP(=O)(O)O)C=O
-: (0011000011001111100000)
+: (0011000011001111010000)
 C1OC2=C(O1)C=C(C=C2)C=CC(=O)C=CC3=CC4=C(C=C3)OCO4
 : (0000000000000000000000)
 C1C2C(C(C(O2)N3C4=C(C(=NC=N4)N)NC3=O)O)OP(=O)(O1)O
-: (0000000011110000010000)
+: (0000000011110000100000)

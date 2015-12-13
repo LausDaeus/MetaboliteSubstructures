@@ -1,0 +1,3 @@
+-graph.py
+--Code finds all possible paths rather than just those of length l. Potentially change?
+--Found that path finding was comparatively tame in performance requirements. Substructure takes longer.

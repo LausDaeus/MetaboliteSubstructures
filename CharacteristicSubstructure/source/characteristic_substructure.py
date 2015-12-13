@@ -13,14 +13,25 @@ def main():
     """
     a = datetime.now()
     parser = argparse.ArgumentParser(description="compare the structure of molecules in a SMILES file")
-    parser.add_argument("smiles_file", help="a file containing SMILES strings")
+    parser.add_argument("smiles_file", help="a file containing SMILES strings.")
     parser.add_argument("threshold", nargs='?', default=0.8, type=float,
-                        help="the relative frequency of structures in the molecules")
+                        help="the relative frequency of structures in the molecules.")
+    parser.add_argument("-v", "--verbose", action="store_true",
+                        help="prints additional info & statistics while processing.")
     parser.add_argument("-c", "--characteristic", action="store_true",
                         help="display the characteristic substructure only")
     parser.add_argument("-r", "--representative", action="store_true",
-                        help="display all of the representative substructures")
+                        help="display all of the representative substructures.")
+    parser.add_argument("-l", "--list_threshold", default=0.8, type=float,
+                        help="relative frequency of structures among a set of lists. Requires all lists"
+                             " in smiles_file to be separated by a new line")
     args = parser.parse_args()
+
+    verbose = args.verbose
+
+    if args.list_threshold:
+        print args.list_threshold
+        return
 
     cs = CSAlgorithm()
     if args.threshold:
