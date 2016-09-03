@@ -1,6 +1,6 @@
 #Characteristic Substructure Application
 
-Created by Mary McDowall & Niklas Zwingenberger
+If you're interested in using this/working on it, message me and I shall explain the details.
 
 ##Description:
 
@@ -55,7 +55,3 @@ the most correlating molecule in the single list.
     
     Has been tested in Windows 8.1-
     CFM-ID software may not work with Linux distributions
-
-##Contents 
-
-    Overview in dissertation
