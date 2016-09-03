@@ -1,0 +1,7 @@
+Hit 0:Neomycin,C23H46N6O13
+Hit 1:Paromomycin,C23H45N5O14
+Hit 2:Bestatin,C16H24N2O4
+Hit 3:Paromomycin,C23H45N5O14
+Hit 4:Bestatin,C16H24N2O4
+Hit 5:Z-Gly-Pro,C15H18N2O5
+Hit 6:Na-Benzenolarginine ethylester,C15H22N4O3

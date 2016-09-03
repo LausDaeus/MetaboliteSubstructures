@@ -1,0 +1,9 @@
+Hit 0:Prowl(TM),C13H19N3O4
+Hit 1:trans-4-Hydroxy-3-methoxycinnamate,C10H10O4
+Hit 2:trans-4-Hydroxy-3-methoxycinnamate,C10H10O4
+Hit 3:Caffeine,C8H10N4O2
+Hit 4:Caffeine,C8H10N4O2
+Hit 5:Glucuronate,C6H10O7
+Hit 6:Glucuronate,C6H10O7
+Hit 7:Minoxidil,C9H15N5O
+Hit 8:trans-4-Hydroxy-3-methoxycinnamate,C10H10O4
