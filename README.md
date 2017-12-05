@@ -2,9 +2,9 @@
 
 This project is an implementation of a [method](http://drops.dagstuhl.de/opus/volltexte/2012/3715/)([PDF](http://drops.dagstuhl.de/opus/volltexte/2012/3715/pdf/4.pdf)) that should help identify [metabolites](https://en.wikipedia.org/wiki/Metabolite). To do this it requires:
 * A [fragmentation pattern](https://en.wikipedia.org/wiki/Fragmentation_(mass_spectrometry)) of a molecule.
-* Potential candidate molecules obtained by performing a lookup with the spectral data on a major database/search engine of chemicals such as [HMDB](http://www.hmdb.ca/metabolites) or [Pubchem](https://pubchem.ncbi.nlm.nih.gov/)
+* Potential candidate molecules obtained by performing a lookup with the spectral data on a major database/search engine of chemicals such as [HMDB](http://www.hmdb.ca/metabolites) or [PubChem](https://pubchem.ncbi.nlm.nih.gov/).
 
-It will then produce a _Characteristic Substructure_ that is a representative molecule of all the input molecules. This can then be optionally drawn as well as fed into a [tool](http://cfmid.wishartlab.com/) that breaks the molecule back down into the fragmentation pattern. Ideally, if the original pattern matches this one, then the algorithm has produced a good representation.
+It will then produce a _Characteristic Substructure_ that is a representative molecule of all the input molecules. This can then be optionally fed into a tool such as [CFM-ID](http://cfmid.wishartlab.com/) that breaks the molecule back down into the fragmentation pattern via machine learning & heuristics: Ideally, if the original pattern matches this one, then the algorithm has produced a good representation.
 
 As this is a lot of information here is a visualisation of how the application is intended to be used.
 
@@ -14,15 +14,18 @@ More details to individual aspects follow in further sections.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+This section explains the requirements of the application and how to get it running.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+The application has the following dependencies:
+* [Python 2](https://www.python.org/downloads/) - it is the main language this is implemented in.
+* [NetworkX](https://networkx.github.io/) - a graph library that is used to create the Characteristic Substructure.
+* [MatplotLib](https://matplotlib.org/users/installing.html), [numpy](https://www.scipy.org/scipylib/download.html) and [rdkit](http://www.rdkit.org/) are required to draw molecules.
 
-```
-Give examples
-```
+Optionally
+* [PubChemPy](https://pubchempy.readthedocs.io/en/latest/guide/install.html) is required if you want to do lookups on the PubChem database.
+* [CFM-ID](http://cfmid.wishartlab.com/) - used to create a fragmentation pattern from a molecule. Can be replaced with any other external tool that does this.
 
 ### Installing
 
