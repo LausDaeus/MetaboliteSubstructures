@@ -23,8 +23,8 @@ The application has the following dependencies:
 * [NetworkX](https://networkx.github.io/) - a graph library that is used to create the Characteristic Substructure.
 * [MatplotLib](https://matplotlib.org/users/installing.html), [numpy](https://www.scipy.org/scipylib/download.html) and [rdkit](http://www.rdkit.org/) are required to draw molecules.
 
-Optionally
-* [PubChemPy](https://pubchempy.readthedocs.io/en/latest/guide/install.html) is required if you want to do lookups on the PubChem database.
+#### Optionally
+* [PubChemPy](https://pubchempy.readthedocs.io/en/latest/guide/install.html) - required if you want to do lookups on the PubChem database.
 * [CFM-ID](http://cfmid.wishartlab.com/) - used to create a fragmentation pattern from a molecule. Can be replaced with any other external tool that does this.
 
 ### Installing
