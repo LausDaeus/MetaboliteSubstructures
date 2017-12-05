@@ -10,7 +10,7 @@ As this is a lot of information here is a visualisation of how the application i
 
 ![Alt text](/readme_img/research_context_v2.png?raw=true "Optional Title")
 
-More details to individual aspects follow in further sections.
+More details to how the algorithms work and the general flow of the application are detailed [here]([a relative link](docs/characteristic_substructure.pdf))
 
 ## Getting Started
 
@@ -20,74 +20,48 @@ This section explains the requirements of the application and how to get it runn
 
 The application has the following dependencies:
 * [Python 2](https://www.python.org/downloads/) - it is the main language this is implemented in.
+* [Python Enum](https://pypi.python.org/pypi/enum34) - needed for compatibility purposes.
 * [NetworkX](https://networkx.github.io/) - a graph library that is used to create the Characteristic Substructure.
-* [MatplotLib](https://matplotlib.org/users/installing.html), [numpy](https://www.scipy.org/scipylib/download.html) and [rdkit](http://www.rdkit.org/) are required to draw molecules.
 
 #### Optionally
+* [MatplotLib](https://matplotlib.org/users/installing.html), [numpy](https://www.scipy.org/scipylib/download.html) and [rdkit](http://www.rdkit.org/) are required to draw molecules.
 * [PubChemPy](https://pubchempy.readthedocs.io/en/latest/guide/install.html) - required if you want to do lookups on the PubChem database.
-* [CFM-ID](http://cfmid.wishartlab.com/) - used to create a fragmentation pattern from a molecule. Can be replaced with any other external tool that does this.
+* [CFM-ID](http://cfmid.wishartlab.com/) - used to create a fragmentation pattern from a molecule. An older version is already included by default for testing purposes (is a Windows binary, so will probably not work with Linux distributions).
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
+To be able to install the application the aforementioned dependencies are required.
 
-Say what the step will be
+From there, all that is needed is to download the `src` folder and run `src/main.py`.
 
-```
-Give the example
-```
+## Running
 
-And repeat
+The application is given inputs in the command line and has 2 modes:
 
 ```
-until finished
+main.py [-h] {cs,rm}
+
+{cs,rm}
+  cs        Find characteristic substructure and optionally use
+            fragmentation comparison.
+  rm        Find a the best-matching molecule from a list, when building 2
+            CS.
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+The `cs` creates a characteristic substructure from a molecule list and will draw it if the given libraries are installed.
+The `rm` is an experimental process that allows the closest fitting molecule between several lists of candidate molecues via CS.
+### Examples
 
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+There are some example files of metabolites & spectral patterns that can be used as inputs in `evaluation_data` and results are output into `output_data`.
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please contact [me](https://github.com/NiklasZ) if you want to contribute to this project. There are possible enhancements in regard of the characteristic substructure and heuristic choices.
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* [NiklasZ](https://github.com/NiklasZ)
 
 ## License
 
@@ -95,10 +69,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
-
+* The University of Glasgow's [Computing Department](https://www.gla.ac.uk/schools/computing/)
+* [CFM-ID](http://cfmid.wishartlab.com/)
 
 #Characteristic Substructure Application
 
